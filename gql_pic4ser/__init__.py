@@ -1,4 +1,4 @@
-__version__ = '0.0.0'
+__version__ = '0.1.0'
 
 from gql import Client, gql
 from gql.transport.requests import RequestsHTTPTransport
